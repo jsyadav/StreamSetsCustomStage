@@ -1,0 +1,10 @@
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/processor/sample/Groups.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/destination/sample/Groups.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/destination/sample/SampleDTarget.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/origin/sample/SampleDSource.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/processor/sample/SampleProcessor.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/destination/sample/SampleTarget.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/lib/sample/Errors.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/origin/sample/Groups.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/origin/sample/SampleSource.java
+/Users/jyadav/JITENDRA/workspace/StreamSetsWorkspace/customStage/src/main/java/com/streamsets/stage/processor/sample/SampleDProcessor.java
